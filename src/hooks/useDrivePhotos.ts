@@ -1,4 +1,4 @@
-import { useState, useCallback, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import type { DrivePhoto } from '../types';
 
 interface UseDrivePhotosResult {
