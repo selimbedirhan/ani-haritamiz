@@ -1,0 +1,731 @@
+[
+    {
+        "id": "istanbul",
+        "name": "İstanbul",
+        "driveFolderId": null,
+        "hexColor": "#FF6B6B",
+        "journalText": "İstanbul'da geçirdiğimiz o muhteşem hafta sonu... Boğaz'da yürüyüşler, Karaköy'de kahveler, gün batımında Üsküdar...",
+        "date": "2024-06-15",
+        "visited": true
+    },
+    {
+        "id": "ankara",
+        "name": "Ankara",
+        "driveFolderId": null,
+        "hexColor": "#4ECDC4",
+        "journalText": "Başkent macerası. Anıtkabir'de duygulandık, Hamamönü'nde kaybolduğumuz o dar sokaklar...",
+        "date": "2024-08-20",
+        "visited": true
+    },
+    {
+        "id": "izmir",
+        "name": "İzmir",
+        "driveFolderId": null,
+        "hexColor": "#45B7D1",
+        "journalText": "Ege'nin incisi... Kordon'da bisiklet, Kemeraltı'nda alışveriş, Alsancak'ta akşam yemekleri...",
+        "date": "2024-07-10",
+        "visited": true
+    },
+    {
+        "id": "antalya",
+        "name": "Antalya",
+        "driveFolderId": null,
+        "hexColor": "#96CEB4",
+        "journalText": "Turkuaz deniz, Kaleiçi'nin büyüsü ve o unutulmaz gün batımları...",
+        "date": "2024-09-05",
+        "visited": true
+    },
+    {
+        "id": "mugla",
+        "name": "Muğla",
+        "driveFolderId": null,
+        "hexColor": "#FFEAA7",
+        "journalText": "Bodrum'un mavisi, Fethiye'nin yeşili... Her köşesinde ayrı bir güzellik.",
+        "date": "2024-08-01",
+        "visited": true
+    },
+    {
+        "id": "trabzon",
+        "name": "Trabzon",
+        "driveFolderId": null,
+        "hexColor": "#74B9FF",
+        "journalText": "Sümela Manastırı'nın büyüsü, Uzungöl'ün huzuru... Karadeniz'in en güzel köşesi.",
+        "date": "2024-10-12",
+        "visited": true
+    },
+    {
+        "id": "konya",
+        "name": "Konya",
+        "driveFolderId": null,
+        "hexColor": "#A29BFE",
+        "journalText": "Mevlana'nın şehrinde manevi bir yolculuk. Etli ekmek ve şekerpareler...",
+        "date": "2024-11-03",
+        "visited": true
+    },
+    {
+        "id": "bursa",
+        "name": "Bursa",
+        "driveFolderId": null,
+        "hexColor": "#00B894",
+        "journalText": "Yeşil Bursa... Uludağ'ın karla kaplı zirvesi, tarihi çarşılar ve İskender kebap!",
+        "date": "2024-05-18",
+        "visited": true
+    },
+    {
+        "id": "adana",
+        "name": "Adana",
+        "driveFolderId": null,
+        "hexColor": "#E17055",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "adiyaman",
+        "name": "Adıyaman",
+        "driveFolderId": null,
+        "hexColor": "#FDCB6E",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "afyonkarahisar",
+        "name": "Afyon",
+        "driveFolderId": null,
+        "hexColor": "#E84393",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "agri",
+        "name": "Ağrı",
+        "driveFolderId": null,
+        "hexColor": "#6C5CE7",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "aksaray",
+        "name": "Aksaray",
+        "driveFolderId": null,
+        "hexColor": "#81ECEC",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "amasya",
+        "name": "Amasya",
+        "driveFolderId": null,
+        "hexColor": "#FAB1A0",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "artvin",
+        "name": "Artvin",
+        "driveFolderId": null,
+        "hexColor": "#00CEC9",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "aydin",
+        "name": "Aydın",
+        "driveFolderId": null,
+        "hexColor": "#FD79A8",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "balikesir",
+        "name": "Balıkesir",
+        "driveFolderId": null,
+        "hexColor": "#55EFC4",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "bilecik",
+        "name": "Bilecik",
+        "driveFolderId": null,
+        "hexColor": "#636E72",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "bingol",
+        "name": "Bingöl",
+        "driveFolderId": null,
+        "hexColor": "#B2BEC3",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "bitlis",
+        "name": "Bitlis",
+        "driveFolderId": null,
+        "hexColor": "#DFE6E9",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "bolu",
+        "name": "Bolu",
+        "driveFolderId": null,
+        "hexColor": "#FFA502",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "burdur",
+        "name": "Burdur",
+        "driveFolderId": null,
+        "hexColor": "#1E90FF",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "canakkale",
+        "name": "Çanakkale",
+        "driveFolderId": null,
+        "hexColor": "#FF6348",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "cankiri",
+        "name": "Çankırı",
+        "driveFolderId": null,
+        "hexColor": "#2ED573",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "corum",
+        "name": "Çorum",
+        "driveFolderId": null,
+        "hexColor": "#5352ED",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "denizli",
+        "name": "Denizli",
+        "driveFolderId": null,
+        "hexColor": "#FF4757",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "diyarbakir",
+        "name": "Diyarbakır",
+        "driveFolderId": null,
+        "hexColor": "#9B59B6",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "edirne",
+        "name": "Edirne",
+        "driveFolderId": null,
+        "hexColor": "#3498DB",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "elazig",
+        "name": "Elazığ",
+        "driveFolderId": null,
+        "hexColor": "#1ABC9C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "erzincan",
+        "name": "Erzincan",
+        "driveFolderId": null,
+        "hexColor": "#F39C12",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "erzurum",
+        "name": "Erzurum",
+        "driveFolderId": null,
+        "hexColor": "#E74C3C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "eskisehir",
+        "name": "Eskişehir",
+        "driveFolderId": null,
+        "hexColor": "#9B59B6",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "gaziantep",
+        "name": "Gaziantep",
+        "driveFolderId": null,
+        "hexColor": "#E74C3C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "giresun",
+        "name": "Giresun",
+        "driveFolderId": null,
+        "hexColor": "#27AE60",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "gumushane",
+        "name": "Gümüşhane",
+        "driveFolderId": null,
+        "hexColor": "#8E44AD",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "hakkari",
+        "name": "Hakkari",
+        "driveFolderId": null,
+        "hexColor": "#2C3E50",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "hatay",
+        "name": "Hatay",
+        "driveFolderId": null,
+        "hexColor": "#16A085",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "isparta",
+        "name": "Isparta",
+        "driveFolderId": null,
+        "hexColor": "#D35400",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "mersin",
+        "name": "Mersin",
+        "driveFolderId": null,
+        "hexColor": "#C0392B",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kars",
+        "name": "Kars",
+        "driveFolderId": null,
+        "hexColor": "#7F8C8D",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kastamonu",
+        "name": "Kastamonu",
+        "driveFolderId": null,
+        "hexColor": "#BDC3C7",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kayseri",
+        "name": "Kayseri",
+        "driveFolderId": null,
+        "hexColor": "#2ECC71",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kirklareli",
+        "name": "Kırklareli",
+        "driveFolderId": null,
+        "hexColor": "#3498DB",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kirsehir",
+        "name": "Kırşehir",
+        "driveFolderId": null,
+        "hexColor": "#9B59B6",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kocaeli",
+        "name": "Kocaeli",
+        "driveFolderId": null,
+        "hexColor": "#34495E",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kutahya",
+        "name": "Kütahya",
+        "driveFolderId": null,
+        "hexColor": "#16A085",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "malatya",
+        "name": "Malatya",
+        "driveFolderId": null,
+        "hexColor": "#E67E22",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "manisa",
+        "name": "Manisa",
+        "driveFolderId": null,
+        "hexColor": "#E74C3C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kahramanmaras",
+        "name": "Kahramanmaraş",
+        "driveFolderId": null,
+        "hexColor": "#9B59B6",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "mardin",
+        "name": "Mardin",
+        "driveFolderId": null,
+        "hexColor": "#F39C12",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "mus",
+        "name": "Muş",
+        "driveFolderId": null,
+        "hexColor": "#1ABC9C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "nevsehir",
+        "name": "Nevşehir",
+        "driveFolderId": null,
+        "hexColor": "#E74C3C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "nigde",
+        "name": "Niğde",
+        "driveFolderId": null,
+        "hexColor": "#3498DB",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "ordu",
+        "name": "Ordu",
+        "driveFolderId": null,
+        "hexColor": "#2ECC71",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "rize",
+        "name": "Rize",
+        "driveFolderId": null,
+        "hexColor": "#27AE60",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "sakarya",
+        "name": "Sakarya",
+        "driveFolderId": null,
+        "hexColor": "#8E44AD",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "samsun",
+        "name": "Samsun",
+        "driveFolderId": null,
+        "hexColor": "#D35400",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "siirt",
+        "name": "Siirt",
+        "driveFolderId": null,
+        "hexColor": "#C0392B",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "sinop",
+        "name": "Sinop",
+        "driveFolderId": null,
+        "hexColor": "#16A085",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "sivas",
+        "name": "Sivas",
+        "driveFolderId": null,
+        "hexColor": "#7F8C8D",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "tekirdag",
+        "name": "Tekirdağ",
+        "driveFolderId": null,
+        "hexColor": "#2C3E50",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "tokat",
+        "name": "Tokat",
+        "driveFolderId": null,
+        "hexColor": "#BDC3C7",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "tunceli",
+        "name": "Tunceli",
+        "driveFolderId": null,
+        "hexColor": "#9B59B6",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "sanliurfa",
+        "name": "Şanlıurfa",
+        "driveFolderId": null,
+        "hexColor": "#F39C12",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "usak",
+        "name": "Uşak",
+        "driveFolderId": null,
+        "hexColor": "#3498DB",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "van",
+        "name": "Van",
+        "driveFolderId": null,
+        "hexColor": "#2ECC71",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "yozgat",
+        "name": "Yozgat",
+        "driveFolderId": null,
+        "hexColor": "#E74C3C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "zonguldak",
+        "name": "Zonguldak",
+        "driveFolderId": null,
+        "hexColor": "#1ABC9C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "bayburt",
+        "name": "Bayburt",
+        "driveFolderId": null,
+        "hexColor": "#D35400",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "karaman",
+        "name": "Karaman",
+        "driveFolderId": null,
+        "hexColor": "#8E44AD",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kirikkale",
+        "name": "Kırıkkale",
+        "driveFolderId": null,
+        "hexColor": "#27AE60",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "batman",
+        "name": "Batman",
+        "driveFolderId": null,
+        "hexColor": "#2C3E50",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "sirnak",
+        "name": "Şırnak",
+        "driveFolderId": null,
+        "hexColor": "#7F8C8D",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "bartin",
+        "name": "Bartın",
+        "driveFolderId": null,
+        "hexColor": "#16A085",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "ardahan",
+        "name": "Ardahan",
+        "driveFolderId": null,
+        "hexColor": "#C0392B",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "igdir",
+        "name": "Iğdır",
+        "driveFolderId": null,
+        "hexColor": "#9B59B6",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "yalova",
+        "name": "Yalova",
+        "driveFolderId": null,
+        "hexColor": "#3498DB",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "karabuk",
+        "name": "Karabük",
+        "driveFolderId": null,
+        "hexColor": "#E74C3C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "kilis",
+        "name": "Kilis",
+        "driveFolderId": null,
+        "hexColor": "#F39C12",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "osmaniye",
+        "name": "Osmaniye",
+        "driveFolderId": null,
+        "hexColor": "#2ECC71",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    },
+    {
+        "id": "duzce",
+        "name": "Düzce",
+        "driveFolderId": null,
+        "hexColor": "#1ABC9C",
+        "journalText": "",
+        "date": "",
+        "visited": false
+    }
+]
